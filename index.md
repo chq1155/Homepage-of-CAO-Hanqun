@@ -20,7 +20,7 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 
 ### PRIDE: A benchmark for structure-guided protein design evaluation
 - Zhihang Hu, ***Hanqun CAO***, Dongchen He, Wenjian Jiang, Tao Shen, Sheng Wang, Siqi Sun, Irwin King, Yu Li
-- Dataset/Benchmark on Neural Information Processing Systems (NIPS) 2022
+- (Still Proceeding...)Dataset/Benchmark on Neural Information Processing Systems (NIPS) 2022
 
 ## Research Projects
 
@@ -32,5 +32,11 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 - Conducted further numerical experiments to find exact convergent stable solutions in the scattering wave problem.
   
 <div align=center><img width="800" height="280" src="https://github.com/chq1155/hanquncao.github.io/blob/gh-pages/asset/m1s.png"/></div>
+
+### Protein Design with Deep Generative Model
+>August 2021 - June 2022. Regular Semster Research project, faculty of Engineering, CUHK.
+- Supervised by Prof. Yu Li (Assistant Professor of Computer Science Department).
+- Conducted protein structural design with Score-based SDE and Diffusion Denoising Probability Model (DDPM).
+- Proposed a benchmark for protein structural design which includes a dataset and an evaluation metric.
 
 
