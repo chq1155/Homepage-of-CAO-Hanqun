@@ -31,7 +31,7 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 - Implemented forward solver for the inverse coefficients in elastic wave scattering problem using FreeFEM and MATLAB.
 - Conducted further numerical experiments to find exact convergent stable solutions in the scattering wave problem.
 
-![image](https://github.com/chq1155/hanquncao.github.io/blob/gh-pages/asset/m1s.png)
+![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/m1s.png)
 
 ### Protein Design with Deep Generative Model
 >August 2021 - June 2022. Regular Semster Research project, faculty of Engineering, CUHK.
