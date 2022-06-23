@@ -34,6 +34,3 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 <div align=center><img width="1250" height="400" src="https://github.com/chq1155/hanquncao.github.io/blob/gh-pages/asset/m1s.png"/></div>
 
 
-
-We designed a forward solver for the inverse coefficients in elastic wave scattering problem using [Finite Element Method](https://en.wikipedia.org/wiki/Finite_element_method) and implemented it with [FreeFEM](https://freefem.org/) and MatLAB. 
-
