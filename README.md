@@ -31,7 +31,7 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 - Implemented forward solver for the inverse coefficients in elastic wave scattering problem using FreeFEM and MATLAB.
 - Conducted further numerical experiments to find exact convergent stable solutions in the scattering wave problem.
   
-![Elastic Wave Scattering](/asset/m1.jpg "Elastic Wave Scattering")
+<div align=center><img width="480" height="320" src="https://github.com/chq1155/hanquncao.github.io/blob/gh-pages/asset/m1.png"/></div>
 
 
 Undergraduate Researcher, from May 2021 to October 2021
