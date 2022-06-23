@@ -1,36 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to CAO Hanqun's Personal Website!
 
-You can use the [editor on GitHub](https://github.com/chq1155/hanquncao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Math Department. Now, I am focusing on research in **Bioinformatics**, **Computer Vision**, and **Medical Image Analysis**, which include protein design using deep generative model, sc ATAC-seq clustering & analysis, Medical image processing with Masked Image Modeling. Also, I am trying to do some pre-train NLP model due to my own interest. Now, I am working with Professor. Yu Li in CUHK CSE Department and Professor. Xiaomeng Li in HKUST EE Department with great honor.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Past Projects
 
-- Bulleted
-- List
+#### Summer Research supervised by Prof. Jun Zou (Chairman of CUHK Math Department)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Undergraduate Researcher, from May 2021 to October 2021
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+We designed a forward solver for the inverse coefficients in elastic wave scattering problem using [Finite Element Method](https://en.wikipedia.org/wiki/Finite_element_method) and implemented it with [FreeFEM](https://freefem.org/) and MatLAB. 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chq1155/hanquncao.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
 
 ### Support or Contact
 
