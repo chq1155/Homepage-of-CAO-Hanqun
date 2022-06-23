@@ -11,13 +11,9 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 
 #### Summer Research supervised by Prof. Jun Zou (Chairman of CUHK Math Department)
 
-```
+
 Undergraduate Researcher, from May 2021 to October 2021
 
 We designed a forward solver for the inverse coefficients in elastic wave scattering problem using [Finite Element Method](https://en.wikipedia.org/wiki/Finite_element_method) and implemented it with [FreeFEM](https://freefem.org/) and MatLAB. 
 
-```
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
