@@ -39,4 +39,4 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 - Conducted protein structural design with Score-based SDE and Diffusion Denoising Probability Model (DDPM).
 - Proposed a benchmark for protein structural design which includes a dataset and an evaluation metric.
 
-![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/m7.png)
+![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/n3.png)
