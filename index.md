@@ -57,8 +57,6 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 - Integrated Plan for each activity to ensure smooth organization and improvement for next time.
 - Prepared 6 face-to-face activities such as Mid-Autumn Event for celebrating the Chinese traditional festival.
 
-![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss13.png)
-
 ### MUA Men's Basketball Team
 >September 2019 - Now. Vice Captain/Team Member
 - Administrated support which include 3 trainings per week, member selection, and team promotion per month.
