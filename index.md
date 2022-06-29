@@ -46,8 +46,7 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 ### Shaw College Mainland Student Association (SCMSA)
 >January 2021 - January 2022. President.
 - Coordinated with 10 committees to provide service for 200 members for one year.
-- Organized 10 off-line activities to promote multicultural integration, provide academic assistant, and gain social contact of members.
-- Organized 4 original online activities during the pandemic aiming to enrich the study life of members.
+- Organized 10 off-line and 4 onine activities to promote multicultural integration, provide academic assistant, and gain social contact of members.
 
 ![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss12.png)
 
@@ -55,7 +54,6 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 >April 2021 - April 2022. General-Affair Committee.
 - Coordinated with 13 committees to provide service for over 1400 members for one year.
 - Integrated Plan for each activity to ensure smooth organization and improvement for next time.
-- Prepared 6 face-to-face activities such as Mid-Autumn Event for celebrating the Chinese traditional festival.
 
 ### MUA Men's Basketball Team
 >September 2019 - Now. Vice Captain/Team Member
