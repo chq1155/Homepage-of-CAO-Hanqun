@@ -53,9 +53,9 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 
 ### Mainland Undergraduate Association (MUA)
 >April 2021 - April 2022. General-Affair Committee.
--Coordinated with 13 committees to provide service for over 1400 members for one year.
--Integrated Plan for each activity to ensure smooth organization and improvement for next time.
--Prepared 8 face-to-face activities such as Mid-Autumn Event for celebrating the Chinese traditional festival.
+- Coordinated with 13 committees to provide service for over 1400 members for one year.
+- Integrated Plan for each activity to ensure smooth organization and improvement for next time.
+- Prepared 6 face-to-face activities such as Mid-Autumn Event for celebrating the Chinese traditional festival.
 
 ![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss13.png)
 
