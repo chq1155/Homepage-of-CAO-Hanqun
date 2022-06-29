@@ -63,3 +63,9 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 - Enjoyed the magic of basketball with my great teammates!
 
 ![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss14.png)
+
+## Awards
+
+> - Shaw College Certificate of Academic Merit 2019/2020
+> - Scholarship of MATH Summer Undergraduate Research Programme (SURP) 2020/2021
+> - Scholarship of MATH Undergraduate Research Opportunity Program (UROP) 2021/2022
