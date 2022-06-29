@@ -57,6 +57,11 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 
 ![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss14.png)
 
+### Mainland Undergraduate Association (MUA)
+>April 2021 - April 2022. General-Affair Committee.
+- Coordinated with 13 committees to provide service for over 1400 members for one year.
+- Integrated Plan for each activity to ensure smooth organization and timely improvement.
+
 ### Summer Exchange to Peking University
 >July 2020 - August 2020
 - Finished amazing coursework of Interpersonal Communication Analysis presented by Prof. Mei Yang
@@ -67,13 +72,23 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 - Inspected rare earth industry with in-depth research report.
 - Conducted general analysis of the Chinese artificial intelligence industry and new energy automobile industry.
 
-### Mainland Undergraduate Association (MUA)
->April 2021 - April 2022. General-Affair Committee.
-- Coordinated with 13 committees to provide service for over 1400 members for one year.
-- Integrated Plan for each activity to ensure smooth organization and improvement for next time.
-
 ## Awards
 
 > - Shaw College Certificate of Academic Merit 2019/2020
 > - Scholarship of MATH Summer Undergraduate Research Programme (SURP) 2020/2021
 > - Scholarship of MATH Undergraduate Research Opportunity Program (UROP) 2021/2022
+
+## Other Things About Me
+
+### Programming
+
+> Python, MatLAB, Pytorch, C/C++, FreeFEM
+
+### Language
+
+> Chinese (Dongbei Accent); English (Learned for 1.6 decades); Cantonese ([siu2 siu2])
+
+### Hobbies
+
+> hobbies = {'sports': ['basketball', 'fencing'],
+>            'singers": [['JJ Lin'](https://www.google.com/search?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%AD%8C%E6%9B%B2&ei=IEu8Yq3wOsia-Ab1jp3ABw&oq=JJ+lin&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwA0oECEEYAEoECEYYAFAAWABg-wdoAXABeACAAQCIAQCSAQCYAQDIAQrAAQE&sclient=gws-wiz), '[Oaeen](https://www.google.com/search?q=%E9%B1%BC%E4%B8%81%E7%B3%B8%E6%AD%8C%E6%9B%B2&ei=KEu8YqLfLJSyoATdnISgDg&oq=%E9%B1%BC%E4%B8%81mi%E6%AD%8C%E6%9B%B2&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQgAQQDDoHCAAQRxCwAzoGCAAQHhAHOgoIABAeEA8QBxAKOgUIABCABEoECEEYAEoECEYYAFCLmAFY08gBYMG-AmgBcAF4AIABzAGIAecNkgEGMC4xMC4xmAEAoAEByAEKwAEB&sclient=gws-wiz) (previous Sota Green)']}
