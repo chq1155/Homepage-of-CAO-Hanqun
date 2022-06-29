@@ -50,17 +50,27 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 
 ![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss12.png)
 
-### Mainland Undergraduate Association (MUA)
->April 2021 - April 2022. General-Affair Committee.
-- Coordinated with 13 committees to provide service for over 1400 members for one year.
-- Integrated Plan for each activity to ensure smooth organization and improvement for next time.
-
 ### MUA Men's Basketball Team
 >September 2019 - Now. Vice Captain/Team Member
 - Administrated support which include 3 trainings per week, member selection, and team promotion per month.
 - Enjoyed the magic of basketball with my great teammates!
 
 ![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss14.png)
+
+### Summer Exchange to Peking University
+>July 2020 - August 2020
+- Finished amazing coursework of Interpersonal Communication Analysis presented by Prof. Mei Yang
+
+### Internship at Essence Fund Management Co., Ltd
+>July 2021 - September 2021, Fixed Income Researcher
+- Learned basic knowledge concerning convertible debt and credit debt.
+- Inspected rare earth industry with in-depth research report.
+- Conducted general analysis of the Chinese artificial intelligence industry and new energy automobile industry.
+
+### Mainland Undergraduate Association (MUA)
+>April 2021 - April 2022. General-Affair Committee.
+- Coordinated with 13 committees to provide service for over 1400 members for one year.
+- Integrated Plan for each activity to ensure smooth organization and improvement for next time.
 
 ## Awards
 
