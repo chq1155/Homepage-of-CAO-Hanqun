@@ -50,3 +50,18 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 - Organized 4 original online activities during the pandemic aiming to enrich the study life of members.
 
 ![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss12.png)
+
+### Mainland Undergraduate Association (MUA)
+>April 2021 - April 2022. General-Affair Committee.
+-Coordinated with 13 committees to provide service for over 1400 members for one year.
+-Integrated Plan for each activity to ensure smooth organization and improvement for next time.
+-Prepared 8 face-to-face activities such as Mid-Autumn Event for celebrating the Chinese traditional festival.
+
+![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss13.png)
+
+### MUA Men's Basketball Team
+>September 2019 - Now. Vice Captain/Team Member
+- Administrated support which include 3 trainings per week, member selection, and team promotion per month.
+- Enjoyed the magic of basketball with my great teammates!
+
+![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss14.png)
