@@ -16,6 +16,9 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
   > - University Research Opportunity Program (UROP), November 2021 - July 2022
   > - Undergraduate Research Assistant, August 2021 -
 
+- **WestLake University**
+  > - Summer Intern, July 2022 -
+
 ## Publications
 
 ### PRIDE: A benchmark for structure-guided protein design evaluation
