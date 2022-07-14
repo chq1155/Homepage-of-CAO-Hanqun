@@ -17,7 +17,7 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
   > - Undergraduate Research Assistant, August 2021 -
 
 - **WestLake University**
-  > - Summer Intern, July 2022 -
+  > - Summer Research Internship, July 2022 -
 
 ## Publications
 
