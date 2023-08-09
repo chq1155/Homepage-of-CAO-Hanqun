@@ -2,12 +2,15 @@
 
 ## Profile
 
-I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Math Department. Now, I am focusing on research in **Bioinformatics**, **Computer Vision**, and **Medical Image Analysis**, which include protein design using deep generative model, sc ATAC-seq clustering & analysis, Medical image processing with Masked Image Modeling. 
+I am currently a Ph.D. student at **Computer Science and Engineering Department** under the supervision of **Prof. Pheng-Ann Heng** and **Prof. Guangyong Chen**. Now, I am focusing on research on **Computational Protein Design through advanced generative models** as well as **Generating novel and diverse samples based on limited amount of data**. Previously, I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Math Department.
 
 ## Education
 
 - **The Chinese University of Hong Kong**
-  > Bachelor of Computer Science, September 2016 - 
+  > Bachelor of Mathematics, September 2016 - July 2023
+- **The Chinese University of Hong Kong**
+  > Ph.D. of Computer Science and Engineering, August 2023 - July 2027 (Expected)
+
 
 ## Intership
 
@@ -46,10 +49,10 @@ I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Ma
 
 ### PRIDE: A benchmark for structure-guided protein design evaluation
 - Zhihang Hu, ***Hanqun CAO***, Dongchen He, Wenjian Jiang, Tao Shen, Sheng Wang, Siqi Sun, Irwin King, Yu Li
-- (Still Proceeding...)Dataset/Benchmark on Neural Information Processing Systems (NIPS) 2022
+- Arxiv
 
 
-## Research Projects
+## Undergraduate Research Projects
 
 ### Inverse Method for Elastic Wave Scattering
 >May 2021 - September 2021. Summer research project, faculty of Science, CUHK.
