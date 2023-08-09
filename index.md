@@ -61,15 +61,16 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 - Implemented forward solver for the inverse coefficients in elastic wave scattering problem using FreeFEM and MATLAB.
 - Conducted further numerical experiments to find exact convergent stable solutions in the scattering wave problem.
 
-![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/m1s.png)
-
 ### Protein Design with Deep Generative Model
 >August 2021 - June 2022. Regular Semster Research project, faculty of Engineering, CUHK.
 - Supervised by Prof. Yu Li (Assistant Professor of Computer Science Department).
 - Conducted protein structural design with Score-based SDE and Diffusion Denoising Probability Model (DDPM).
 - Proposed a benchmark for protein structural design which includes a dataset and an evaluation metric.
 
-![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/n3.png)
+### Partial Face Registration
+>June 2022 - July 2023. Final-Year Project, facluty of Science, CUHK.
+- Supervised by Prof. Ronald Lui (Professor of Mathematics Department).
+- Conduct partial huma face resistration from multi-view.
 
 ## Experiences
 
@@ -78,15 +79,11 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 - Coordinated with 10 committees to provide service for 200 members for one year.
 - Organized 10 off-line and 4 onine activities to promote multicultural integration, provide academic assistant, and gain social contact of members.
 
-![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss12.png)
-
 ### MUA Men's Basketball Team
 >September 2019 - Now. Vice Captain/Team Member
 - Administrated support which include 3 trainings per week, member selection, and team promotion per month.
 - Enjoyed the magic of basketball with my great teammates!
-
-![image](https://github.com/chq1155/hanquncao.github.io/raw/gh-pages/img/ss14.png)
-
+- 
 ### Mainland Undergraduate Association (MUA)
 >April 2021 - April 2022. General-Affair Committee.
 - Coordinated with 13 committees to provide service for over 1400 members for one year.
