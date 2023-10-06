@@ -24,6 +24,10 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 
 ## Publications
 
+### Efficient and accurate large library ligand docking with KarmaDock
+- Xujun Zhang, Odin Zhang, Chao Shen, Wanglin Qu, Shicheng Chen, Hanqun Cao, Yu Kang, Zhe Wang, Ercheng Wang, Jintu Zhang, Yafeng Deng, Furui Liu, Tianyue Wang, Hongyan Du, Langcheng Wang, Peichen Pan, Guangyong Chen, Chang-Yu Hsieh, Tingjun Hou
+- Nature Computational Science
+
 ### ResGen: A Pocket-aware 3D Molecular Generation Model Based on Parallel Multi-scale Modeling.
 - Haotian Zhang , Jintu Zhang , Xujun Zhang , Jieyu Jin , Renlin Hu , Chao Shen , Hongyan Du , **Hanqun Cao**, Yu Kang , Yafeng Deng , Furui Liu , Guangyong Chen , Chang-Yu Hsieh
 - Nature Machine Intelligence
