@@ -52,6 +52,10 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 - **Hanqun Cao**, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li
 - arxiv 2022 [[paper]](https://arxiv.org/pdf/2209.02646.pdf)[[code]](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model#242-Material-Design)
 
+### WARM: A Simple CNN-based WeAther FoRecasting Model Outperforms Graph Neural Networks
+- Cheng Tan, Zhangyang Gao, **Hanqun Cao**, Stan Z. Li
+- proceeding in IEEE TNNLS
+
 ### PRIDE: A benchmark for structure-guided protein design evaluation
 - Zhihang Hu, **Hanqun Cao**, Dongchen He, Wenjian Jiang, Tao Shen, Sheng Wang, Siqi Sun, Irwin King, Yu Li
 - Arxiv
