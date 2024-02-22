@@ -27,10 +27,10 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 ### A Survey on Generative Diffusion Model
 - **Hanqun Cao**, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li
 - **IEEE Transactions on Knowledge and Data Engineering (TKDE)** [[paper]](https://arxiv.org/pdf/2209.02646.pdf) [[code]](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model#242-Material-Design)
-- Our paper is reported by Jiqizhixin(机器之心)[[post]](https://mp.weixin.qq.com/s/sxaahA116ivqksJa38e9Ig)
+- Our paper is reported by **Synced(机器之心)** [[post]](https://mp.weixin.qq.com/s/sxaahA116ivqksJa38e9Ig)
 
 ### Efficient and accurate large library ligand docking with KarmaDock
-- Xujun Zhang, Odin Zhang, Chao Shen, Wanglin Qu, Shicheng Chen, Hanqun Cao, Yu Kang, Zhe Wang, Ercheng Wang, Jintu Zhang, Yafeng Deng, Furui Liu, Tianyue Wang, Hongyan Du, Langcheng Wang, Peichen Pan, Guangyong Chen, Chang-Yu Hsieh, Tingjun Hou
+- Xujun Zhang, Odin Zhang, Chao Shen, Wanglin Qu, Shicheng Chen, **Hanqun Cao**, Yu Kang, Zhe Wang, Ercheng Wang, Jintu Zhang, Yafeng Deng, Furui Liu, Tianyue Wang, Hongyan Du, Langcheng Wang, Peichen Pan, Guangyong Chen, Chang-Yu Hsieh, Tingjun Hou
 - **Nature Computational Science**
 
 ### ResGen: A Pocket-aware 3D Molecular Generation Model Based on Parallel Multi-scale Modeling.
@@ -44,6 +44,10 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 ### Learning Robust Classifier for Imbalanced Medical Image Dataset with Noisy Labels by Minimizing Invariant Risk.
 - Jinpeng Li, **Hanqun Cao**, Jiaze Wang, Furui Liu, Qi Dou, Guangyong Chen , and Pheng-Ann Heng
 - **MICCAI 2023**
+
+### An Autonomous Large Language Model Agent for Chemical Literature Data Mining.
+- Kexin Chen, **Hanqun Cao**, Junyou Li, Yuyang Du, Menghao Guo, Xin Zeng, Lanqing Li, Jiezhong Qiu, Pheng Ann Heng, Guangyong Chen
+- Arxiv [[paper]](https://arxiv.org/abs/2402.12993)
 
 ### GLCBind: Accurate RNA-Ligand Binding Site Detection with Global-Local Context Learning.
 - Jinpeng Li, **Hanqun Cao**, Qian Gao, Junde Xu, Ercheng Wang, Pei Guo, Guangyong Chen, Tingjun Hou, and Pheng-Ann Heng
