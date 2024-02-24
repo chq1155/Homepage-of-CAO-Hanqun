@@ -1,4 +1,4 @@
-# CAO Hanqun, Hank
+# Hanqun (Hank) Cao
 
 ## Profile
 
@@ -49,6 +49,10 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 - Kexin Chen, **Hanqun Cao**, Junyou Li, Yuyang Du, Menghao Guo, Xin Zeng, Lanqing Li, Jiezhong Qiu, Pheng Ann Heng, Guangyong Chen
 - Arxiv [[paper]](https://arxiv.org/abs/2402.12993)
 
+### Deciphering RNA Secondary Structure Prediction: A Probabilistic K-Rook Matching Perspective.
+- Cheng Tan, Zhangyang Gao, **Hanqun CAO**, Xingran Chen, Ge Wang, Lirong Wu, Jun Xia, Jiangbin Zheng, Stan Z. Li
+- Proceeding in ICML 2024
+
 ### GLCBind: Accurate RNA-Ligand Binding Site Detection with Global-Local Context Learning.
 - Jinpeng Li, **Hanqun Cao**, Qian Gao, Junde Xu, Ercheng Wang, Pei Guo, Guangyong Chen, Tingjun Hou, and Pheng-Ann Heng
 - Proceeding in JCIM
@@ -66,8 +70,8 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 - proceeding in IEEE TNNLS
 
 ### PRIDE: A benchmark for structure-guided protein design evaluation
-- Zhihang Hu, **Hanqun Cao**, Dongchen He, Wenjian Jiang, Tao Shen, Sheng Wang, Siqi Sun, Irwin King, Yu Li
-- Arxiv
+- Dongchen He, Zhihang Hu, Lei Li, **Hanqun Cao**, Wenjian Jiang, Sheng Wang, Jintao Meng, Tao Shen, Siqi Sun, Irwin King, Yu Li
+- Proceeding in Briefing in Bioinformatics.
 
 
 ## Undergraduate Research Projects
