@@ -7,7 +7,7 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 ## Education
 
 - **The Chinese University of Hong Kong**
-  > Bachelor of Mathematics, September 2016 - July 2023
+  > Bachelor of Mathematics, September 2019 - July 2023
 - **The Chinese University of Hong Kong**
   > Ph.D. of Computer Science and Engineering, August 2023 - July 2027 (Expected)
 
