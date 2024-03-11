@@ -53,7 +53,7 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 - Cheng Tan, Zhangyang Gao, **Hanqun CAO**, Xingran Chen, Ge Wang, Lirong Wu, Jun Xia, Jiangbin Zheng, Stan Z. Li
 - Proceeding in ICML 2024
 
-```
+<!--
 ### GLCBind: Accurate RNA-Ligand Binding Site Detection with Global-Local Context Learning.
 - Jinpeng Li, **Hanqun Cao**, Qian Gao, Junde Xu, Ercheng Wang, Pei Guo, Guangyong Chen, Tingjun Hou, and Pheng-Ann Heng
 - Proceeding in JCIM
@@ -73,7 +73,7 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 ### PRIDE: A benchmark for structure-guided protein design evaluation
 - Dongchen He, Zhihang Hu, Lei Li, **Hanqun Cao**, Wenjian Jiang, Sheng Wang, Jintao Meng, Tao Shen, Siqi Sun, Irwin King, Yu Li
 - Proceeding in Briefing in Bioinformatics.
-```
+-->
 
 ## Undergraduate Research Projects
 
