@@ -2,7 +2,7 @@
 
 ## Profile
 
-I am currently a Ph.D. student at **Computer Science and Engineering Department** under the supervision of **Prof. Pheng-Ann Heng** and **Prof. Guangyong Chen**. Now, I am focusing on research on **Computational Protein Design through advanced generative models** as well as **Generating novel and diverse samples based on limited amount of data**. Previously, I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Math Department.
+I am currently a Ph.D. student at **Computer Science and Engineering Department** under the supervision of **Prof. Pheng-Ann Heng**. Now, I am focusing on research on **Computational Protein Design through advanced generative models** as well as **Generating novel and diverse samples based on limited amount of data**. Previously, I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Math Department.
 
 ## Education
 
@@ -31,19 +31,19 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 
 ### Efficient and accurate large library ligand docking with KarmaDock
 - Xujun Zhang, Odin Zhang, Chao Shen, Wanglin Qu, Shicheng Chen, **Hanqun Cao**, Yu Kang, Zhe Wang, Ercheng Wang, Jintu Zhang, Yafeng Deng, Furui Liu, Tianyue Wang, Hongyan Du, Langcheng Wang, Peichen Pan, Guangyong Chen, Chang-Yu Hsieh, Tingjun Hou
-- **Nature Computational Science**
+- **Nature Computational Science** [[paper]](https://www.nature.com/articles/s43588-023-00511-5)
 
 ### ResGen: A Pocket-aware 3D Molecular Generation Model Based on Parallel Multi-scale Modeling.
 - Haotian Zhang , Jintu Zhang , Xujun Zhang , Jieyu Jin , Renlin Hu , Chao Shen , Hongyan Du , **Hanqun Cao**, Yu Kang , Yafeng Deng , Furui Liu , Guangyong Chen , Chang-Yu Hsieh
-- **Nature Machine Intelligence**
+- **Nature Machine Intelligence** [[paper]](https://www.nature.com/articles/s42256-023-00712-7)
 
 ### Hybrid Condtional Diffusion Model for Weakly Medical Anomaly Detection. 
 - Jinpeng Li, **Hanqun Cao**, Jiaze Wang, Furui Liu, Qi Dou, Guangyong Chen , and Pheng-Ann Heng
-- **MICCAI 2023, Early-Accepted**
+- **MICCAI 2023, Early-Accepted** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_56)
 
 ### Learning Robust Classifier for Imbalanced Medical Image Dataset with Noisy Labels by Minimizing Invariant Risk.
 - Jinpeng Li, **Hanqun Cao**, Jiaze Wang, Furui Liu, Qi Dou, Guangyong Chen , and Pheng-Ann Heng
-- **MICCAI 2023**
+- **MICCAI 2023** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_30)
 
 ### An Autonomous Large Language Model Agent for Chemical Literature Data Mining.
 - Kexin Chen, **Hanqun Cao**, Junyou Li, Yuyang Du, Menghao Guo, Xin Zeng, Lanqing Li, Jiezhong Qiu, Pheng Ann Heng, Guangyong Chen
