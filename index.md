@@ -29,6 +29,10 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 - **IEEE Transactions on Knowledge and Data Engineering (TKDE)** [[paper]](https://arxiv.org/pdf/2209.02646.pdf) [[code]](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model#242-Material-Design)
 - Our paper is reported by **Synced(机器之心)** [[post]](https://mp.weixin.qq.com/s/sxaahA116ivqksJa38e9Ig)
 
+### InstructPLM: Aligning Protein Language Models to Follow Protein Structure Instructions
+- Jiezhong Qiu*, Junde Xu*, Jie Hu*, **Hanqun Cao***, Liya Hou, Zijun Gao, Xinyi Zhou, Anni Li, Xiujuan Li, Bin Cui, Fei Yang, Shuang Peng, Ning Sun, Fangyu Wang, Aimin Pan, Jie Tang, Jieping Ye, Junyang Lin, Jin Tang, Xingxu Huang, Pheng Ann Heng, Guangyong Chen
+- bioRxiv [[paper]](https://www.biorxiv.org/content/biorxiv/early/2024/04/20/2024.04.17.589642.full.pdf)
+
 ### Efficient and accurate large library ligand docking with KarmaDock
 - Xujun Zhang, Odin Zhang, Chao Shen, Wanglin Qu, Shicheng Chen, **Hanqun Cao**, Yu Kang, Zhe Wang, Ercheng Wang, Jintu Zhang, Yafeng Deng, Furui Liu, Tianyue Wang, Hongyan Du, Langcheng Wang, Peichen Pan, Guangyong Chen, Chang-Yu Hsieh, Tingjun Hou
 - **Nature Computational Science** [[paper]](https://www.nature.com/articles/s43588-023-00511-5)
