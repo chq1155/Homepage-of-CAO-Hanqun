@@ -55,7 +55,7 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
 
 ### Deciphering RNA Secondary Structure Prediction: A Probabilistic K-Rook Matching Perspective.
 - Cheng Tan, Zhangyang Gao, **Hanqun CAO**, Xingran Chen, Ge Wang, Lirong Wu, Jun Xia, Jiangbin Zheng, Stan Z. Li
-- Proceeding in ICML 2024
+- **ICML 2024**
 
 <!--
 ### GLCBind: Accurate RNA-Ligand Binding Site Detection with Global-Local Context Learning.
