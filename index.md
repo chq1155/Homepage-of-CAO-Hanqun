@@ -19,6 +19,9 @@ I am currently a Ph.D. student at **Computer Science and Engineering Department*
   > - University Research Opportunity Program (UROP), November 2021 - July 2022
   > - Undergraduate Research Assistant, August 2021 - July 2023
 
+- **Zhejiang Lab**
+  > - Summer Research Internship, July 2023 - August 2023
+
 - **WestLake University**
   > - Summer Research Internship, July 2022 - December 2022
 
