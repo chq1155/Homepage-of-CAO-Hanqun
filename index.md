@@ -2,7 +2,9 @@
 
 ## Profile
 
-I am currently a Ph.D. student at **Computer Science and Engineering Department** under the supervision of **Prof. Pheng-Ann Heng**. Now, I am focusing on research on **Computational Protein Design through advanced generative models** as well as **Generating novel and diverse samples based on limited amount of data**. Previously, I am an undergraduate student from The Chinese university of Hong Kong (CUHK) Math Department.
+I am a Ph.D. candidate in the **Department of Computer Science and Engineering at The Chinese University of Hong Kong (CUHK)**, under the supervision of **Prof. Pheng-Ann Heng**. My research focuses on advancing the field of **Computational Protein Design** through the development and application of state-of-the-art generative models. Additionally, I am exploring novel techniques for generating diverse and high-quality samples from limited data sets, which has broad implications for various domains. Prior to my doctoral studies, I completed my undergraduate degree in **Mathematics at CUHK**. This interdisciplinary background has equipped me with a strong foundation in mathematical modeling and algorithmic thinking, which I leverage in my current research endeavors.
+
+My research interests lie at the intersection of **artificial intelligence, bioinformatics**, and **deep generative models**. By combining insights from these fields, I aim to push the boundaries of what is possible in protein engineering and contribute to the development of innovative computational tools that can accelerate scientific discovery.
 
 ## Education
 
