@@ -90,6 +90,7 @@ My research interests lie at the intersection of **artificial intelligence, bioi
 ### PRIDE: A benchmark for structure-guided protein design evaluation
 - Dongchen He, Zhihang Hu, Lei Li, **Hanqun Cao**, Wenjian Jiang, Sheng Wang, Jintao Meng, Tao Shen, Siqi Sun, Irwin King, Yu Li
 - Proceeding in Briefing in Bioinformatics.
+- -->
 
 
 ## Undergraduate Research Projects
