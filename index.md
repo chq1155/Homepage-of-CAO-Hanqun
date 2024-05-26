@@ -79,14 +79,6 @@ My research interests lie at the intersection of **artificial intelligence, bioi
 - Cheng Tan, Yijie Zhang, Zhangyang Gao, **Hanqun Cao**, Siyuan Li, Zicheng Liu, Yongjie Xu, Stan Z. Li
 - Proceeding in ICLR 2024
 
-### Landmark Detection and Registration on Partial Face via Quasi-conformal Geometry and Machine Learning. 
-- Yuchen Guo, **Hanqun Cao**, Lok Ming Lui
-- Proceeding in Pattern Recognition
-
-### WARM: A Simple CNN-based WeAther FoRecasting Model Outperforms Graph Neural Networks
-- Cheng Tan, Zhangyang Gao, **Hanqun Cao**, Stan Z. Li
-- proceeding in IEEE TNNLS
-
 ### PRIDE: A benchmark for structure-guided protein design evaluation
 - Dongchen He, Zhihang Hu, Lei Li, **Hanqun Cao**, Wenjian Jiang, Sheng Wang, Jintao Meng, Tao Shen, Siqi Sun, Irwin King, Yu Li
 - Proceeding in Briefing in Bioinformatics.
