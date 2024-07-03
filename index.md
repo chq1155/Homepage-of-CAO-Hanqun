@@ -42,6 +42,7 @@ My research interests lie at the intersection of **artificial intelligence, bioi
 ### InstructPLM: Aligning Protein Language Models to Follow Protein Structure Instructions
 - Jiezhong Qiu*, Junde Xu*, Jie Hu*, **Hanqun Cao***, Liya Hou, Zijun Gao, Xinyi Zhou, Anni Li, Xiujuan Li, Bin Cui, Fei Yang, Shuang Peng, Ning Sun, Fangyu Wang, Aimin Pan, Jie Tang, Jieping Ye, Junyang Lin, Jin Tang, Xingxu Huang, Pheng Ann Heng, Guangyong Chen
 - bioRxiv [[paper]](https://www.biorxiv.org/content/biorxiv/early/2024/04/20/2024.04.17.589642.full.pdf)
+- \* indicates equal contribution.
 
 ### Efficient and accurate large library ligand docking with KarmaDock
 - Xujun Zhang, Odin Zhang, Chao Shen, Wanglin Qu, Shicheng Chen, **Hanqun Cao**, Yu Kang, Zhe Wang, Ercheng Wang, Jintu Zhang, Yafeng Deng, Furui Liu, Tianyue Wang, Hongyan Du, Langcheng Wang, Peichen Pan, Guangyong Chen, Chang-Yu Hsieh, Tingjun Hou
