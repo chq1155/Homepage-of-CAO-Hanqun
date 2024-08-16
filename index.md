@@ -6,6 +6,8 @@ I am a Ph.D. candidate in the **Department of Computer Science and Engineering a
 
 My research interests lie at the intersection of **artificial intelligence, bioinformatics**, and **deep generative models**. By combining insights from these fields, I aim to push the boundaries of what is possible in protein engineering and contribute to the development of innovative computational tools that can accelerate scientific discovery.
 
+Any contact can be accessed through email: hanquncao@gmail.com or hanquncao2001@link.cuhk.edu.hk
+
 ## Education
 
 - **The Chinese University of Hong Kong**
